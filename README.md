@@ -6,7 +6,7 @@
 ### About me
 
 I'm a Brazilian Software Engineer that loves beer, currently living in Lisbon, Portugal.
-- I'm currently working on Loggi, in their office base in Lisbon, Portugal;
+- I'm currently working on [Loggi](https://github.com/loggi), in their office base in Lisbon, Portugal;
 - I have a Bachelor degree in Information Systems ([INF/UFG](https://http://inf.ufg.br/), Brazil)
 - I have more expertise developing applications using Java in versions 8 and 11 but currently I'm working with Python and there's no problem on that;
 - I'm also experienced working with .net platform and Angular 8+ for front-end applications;
