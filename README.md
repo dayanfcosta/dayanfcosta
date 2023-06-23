@@ -6,9 +6,9 @@
 ### About me
 
 I'm a Brazilian Software Engineer that loves beer, currently living in Lisbon, Portugal.
-- I'm currently working at [Loggi](https://github.com/loggi), in their office based in Lisbon, Portugal;
+- I'm currently working at OLX Group, remote from Lisbon, Portugal;
+- I have also experience in some domais, mainly Logistics, Financial and now Classifieds :) 
 - I have a Bachelor degree in Information Systems ([INF/UFG](https://http://inf.ufg.br/), Brazil)
-- I'm more experienced developing applications using Java in versions 8 and 11, but currently, I'm working with Python and Kotlin, and there's no problem on that;
-- I'm also experienced working with .Net platform and Angular 8+ for front-end applications;
-- I'm excited about learning about software architecture, mainly those modular and event base ones;
-- I'm now preparing to start writing some posts on a personal blog I'll create 😄;
+- I'm more experienced developing applications using Java in versions 8 and 11, but currently, I'm working with Kotlin, which has been a great experience and everyday I love more this programing language;
+- I'm also experienced working with .Net platform and Angular 8+ and ReacJS for front-end applications;
+- I'm excited about learning about software architecture, mainly those modular and event based ones;
